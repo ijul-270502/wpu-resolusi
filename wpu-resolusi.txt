@@ -1,5 +1,5 @@
 ijul-resolusi
 -Konsisten untuk ngoding minimal 5* dalam seminggu
+-konsisten untuk membuat website agar terus berkembang
 -konsisten belajar pemrograman untuk terus berkembang
--membuat website dengan complex & flexible
 -selalu belajar mengenai tentang technology
